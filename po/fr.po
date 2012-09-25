@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WesCamp_Translation_Insertion_Test-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:06-0400\n"
+"POT-Creation-Date: 2012-09-25 14:54+0200\n"
 "PO-Revision-Date: 2012-02-21 16:00+0100\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
@@ -22,12 +22,17 @@ msgstr "Alimentation"
 msgid "BAD FOOD IS BAD!"
 msgstr "L'ALIMENTATION EST MAUVAISE !"
 
+#. [part]
+#: WesCamp_Translation_Insertion_Test/01_Food.cfg:44
+msgid "... Very bad..."
+msgstr ""
+
 #. [campaign]: id=WesCamp_Translation_Insertion_Test
-#: WesCamp_Translation_Insertion_Test/_main.cfg:10
+#: WesCamp_Translation_Insertion_Test/_main.cfg:11
 msgid "WesCamp Translation Insertion Test"
 msgstr "Test de mise en ligne des traductions sur WesCamp"
 
 #. [campaign]: id=WesCamp_Translation_Insertion_Test
-#: WesCamp_Translation_Insertion_Test/_main.cfg:12
+#: WesCamp_Translation_Insertion_Test/_main.cfg:13
 msgid "Good food is good..."
 msgstr "L'alimentation est bonne..."
