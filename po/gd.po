@@ -6,10 +6,10 @@ msgstr ""
 "PO-Revision-Date: 2012-09-25 14:54+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gd\n"
 
 #. [scenario]: id=01_Food
 #: WesCamp_Translation_Insertion_Test/01_Food.cfg:5
